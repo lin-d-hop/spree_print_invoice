@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.version     = SpreePrintInvoice.version
   s.summary     = 'Print invoices and slips from Spree Commerce'
   s.description = s.summary
-  s.required_ruby_version = '>= 2.1.0'
+  s.required_ruby_version = '>= 1.3.6'
 
   s.author       = 'Spree Commerce'
   s.email        = 'gems@spreecommerce.com'
